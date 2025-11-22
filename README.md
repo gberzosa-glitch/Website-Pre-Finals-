@@ -1,2 +1,2 @@
 # Website-Pre-Finals-
-This is my Pre-Finals Website.
+This website is about Generative AI and all the information you will need to know.
