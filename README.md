@@ -1,2 +1,2 @@
 # Website-Pre-Finals-
-This website is about Generative AI and all the information you will need to know.
+This is my website about Generative AI and all the information you will need to know.
