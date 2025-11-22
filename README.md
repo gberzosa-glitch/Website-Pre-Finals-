@@ -1,5 +1,8 @@
 # Website-Pre-Finals-
-This is my website about Generative AI and all the information you will need to know.
+This is my website about Generative AI
+
+# Short Overview
+The website is about information related to Generative AI. Ethical use of it, more information and FAQs.
 
 # Instructions to Run
 1. Clone or download the repository.
